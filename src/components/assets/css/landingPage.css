@@ -1,0 +1,135 @@
+/* Hero Section */
+.ButtonHero {
+    font-family: 'Nunito';
+    font-style: normal;
+    width: 90px;
+    height: 40px;
+    background: #195C92;
+    border-radius: 50px;
+}
+
+.tittleHero {
+    padding-top: 60px;
+    font-family: 'Nunito';
+    font-style:normal;
+    font-weight: 1000;
+    font-size: 40px;
+    line-height: 125%;
+    color: #195C92;
+}
+
+.subTittleHero {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+    color: #8B8B8B;
+}
+
+/* Main Section */
+
+.tittleH1 {
+    padding-top: 60px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 47px;
+    text-align: center;
+    color: #344767;
+}
+
+.pLihatSemua {
+    padding-top: 2px;
+    text-align: end;
+    color: #1A73E7;
+}
+
+
+/* Berita Section */
+
+.Card {
+    width: 300px;
+    background: #FFFFFF;
+    border: 0.8px rgba(255, 255, 255, 0.493);
+    border-radius: 12px;
+}
+
+.cardTittle {
+    font-weight: bold;
+    font-size: 20px;
+    color: #344767;
+}
+
+.cardText {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: justify;
+}
+
+/* Kisah Alumni section */
+
+.KAStyle {
+    background: linear-gradient(180deg, #434faa 0%, rgba(255, 255, 255, 0) 101.43%);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.CardKA {
+    width: 250px;
+    background: #FFFFFF;
+    border: 0.8px rgba(255, 255, 255, 0.493);
+    border-radius: 12px;
+}
+
+.KAprodi {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 125%;
+    text-align: center;
+    color: #FF5003;
+}
+
+.cardTittleKA {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 125%;
+    text-align: center;
+    color: #091156;
+}
+
+.cardTextKA {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #8B8B8B;
+}
+
+.IconsKA {
+    display: flex;
+    justify-content: center;
+    color: #091156;
+}
+
+/* Agenda section */
+
+/* #agenda {
+    border-collapse: collapse;
+  }
+  
+  #agenda td {
+    width: 5px;
+  }
+  
+  #agenda th {
+    padding-right: -10px;
+  } */
+
+
+/* Footer Section */

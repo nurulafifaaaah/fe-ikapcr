@@ -1,0 +1,10 @@
+.dropdownHeader{
+    background-color: #195C92;
+    margin-top: -8px;
+    border-radius: 6px 6px 0px 0px;
+}
+
+.font{
+    font-family:'Nunito';
+    font-weight: 400;
+}
